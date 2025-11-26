@@ -2,7 +2,7 @@
 ## 📂 Project Video:- 
 click here :- [▶ Watch App Video](https://youtu.be/04SvrehcD_c)
 @ Training Certificate:-
-📁 [View Certificates Folder](https://github.com/harshkachhway749-collab/Grocery_Delivery_App/tree/f751c3ad616249f54907176b4ec66450b7ccdbd1/certificates)
+📁 [View Certificates Folder](https://github.com/harshkachhway749-collab/FlashCart_Grocery_App/tree/083e5574d6121f367a8627ba231481cd64686522/Training_Certificates)
 
 <img width="247" height="524" alt="Image" src="https://github.com/user-attachments/assets/ae0e48aa-6723-4016-bb89-af28851023fd" /> <img width="250" height="524" alt="Image" src="https://github.com/user-attachments/assets/8c1a92d4-c242-4088-8b57-c9fc2ab34f9d" />
 
