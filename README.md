@@ -4,7 +4,7 @@ click here :- [▶ Watch App Video](https://youtu.be/04SvrehcD_c)
 @ Training Certificate:-
 📁 [View Certificates Folder](https://github.com/harshkachhway749-collab/FlashCart_Grocery_App/tree/083e5574d6121f367a8627ba231481cd64686522/Training_Certificates)
 
-<img width="247" height="524" alt="Image" src="https://github.com/user-attachments/assets/ae0e48aa-6723-4016-bb89-af28851023fd" /> <img width="250" height="524" alt="Image" src="https://github.com/user-attachments/assets/8c1a92d4-c242-4088-8b57-c9fc2ab34f9d" />
+<img width="247" height="524" alt="Image" src="https://github.com/user-attachments/assets/ae0e48aa-6723-4016-bb89-af28851023fd" />  <img width="250" height="524" alt="Image" src="https://github.com/user-attachments/assets/8c1a92d4-c242-4088-8b57-c9fc2ab34f9d" />  <img width="243" height="525" alt="Image" src="https://github.com/user-attachments/assets/0359caa0-ba1b-4414-aa73-448afdc72d94" />
 
 # 📱 FlashCart – Grocery Shopping App
 A modern and clean Android grocery shopping application built with Kotlin, MVVM, LiveData, and Firebase. Designed with smooth UI, real-time updates, and a seamless shopping experience.
@@ -20,7 +20,7 @@ A modern and clean Android grocery shopping application built with Kotlin, MVVM,
 - Bakery  
 - Dairy  
 - Other essential grocery items
-  <img width="243" height="525" alt="Image" src="https://github.com/user-attachments/assets/0359caa0-ba1b-4414-aa73-448afdc72d94" />
+  
 
 
 ### 📦 2. Product Listing
@@ -56,7 +56,7 @@ A modern and clean Android grocery shopping application built with Kotlin, MVVM,
 - Firebase Storage for product images  
 - Auto-sync data in real-time  
 
-
+<img width="882" height="285" alt="Image" src="https://github.com/user-attachments/assets/eaabb1d8-c910-407d-8afa-9e5d82cda5cc" />
 
 ## 🏛 Tech Stack
 
@@ -74,7 +74,7 @@ A modern and clean Android grocery shopping application built with Kotlin, MVVM,
 ---
 <img width="255" height="545" alt="Image" src="https://github.com/user-attachments/assets/475a4235-061c-49a3-9bc7-d0ae95f7cf79" />  <img width="257" height="546" alt="Image" src="https://github.com/user-attachments/assets/2617a4e9-4f34-4313-84f0-350ecdbed4b7" />
 
-<img width="882" height="285" alt="Image" src="https://github.com/user-attachments/assets/eaabb1d8-c910-407d-8afa-9e5d82cda5cc" />
+
 
 
 
