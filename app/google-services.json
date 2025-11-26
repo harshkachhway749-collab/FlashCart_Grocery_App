@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754467635323",
+    "project_id": "flash-cart-846fb",
+    "storage_bucket": "flash-cart-846fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754467635323:android:d4d5e900153edc581722de",
+        "android_client_info": {
+          "package_name": "com.internshala.flash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAtXifiFQrwQcVRfgMQElSipx_-0qpZs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

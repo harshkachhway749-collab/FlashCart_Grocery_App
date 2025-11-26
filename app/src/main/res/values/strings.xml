@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FlashCart</string>
+    <string name="sweet_teeth">Sweet Tooth</string>
+    <string name="pet_food">Pet Food</string>
+    <string name="packaged_food">Packaged Food</string>
+    <string name="munchies">Munchies</string>
+    <string name="kitchen_essentials">Kitchen Essentials</string>
+    <string name="vegetable">Vegetable</string>
+    <string name="cleaning_essentials">Cleaning Essentials</string>
+    <string name="bread_biscuit">Bread Biscuit</string>
+    <string name="beverages">Beverages</string>
+    <string name="bath_body">Bath Body</string>
+    <string name="fresh_fruits">Fresh Fruits</string>
+    <string name="stationary">Stationary</string>
+
+    // describing five fruits
+    <string name="shimla_Apple">Shimla Apple</string>
+    <string name="pine_Apple">Pine Apple</string>
+    <string name="papaya_semi_ripe">Papaya Semi Ripe</string>
+    <string name="pomegranate">Pomegranate</string>
+    <string name="banana_robusta">Banana Robusta</string>
+    <string name="pepsi_can">Pepsi Can</string>
+
+
+</resources>
